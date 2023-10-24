@@ -66,7 +66,8 @@ public class DayOfWeek {
     }
     if (dayNumber >= 1 && dayNumber <= 7) {
         System.out.println("The " + dayNumber + suffix + " day of the week is " + dayOfWeek);
-    } else {
+    }
+    else {
         System.out.println("Invalid input. Please enter a number between 1 and 7.");
     }
 

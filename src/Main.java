@@ -1,8 +1,8 @@
 public class Main {
-    public static void main(String[] args) {
-        breakExample();
+        public static void main(String[] args) {
+            breakExample();
 
-    }
+        }
 
     private static void arithmeticOperators() {
         int num1 = 100;
